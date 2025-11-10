@@ -24,7 +24,7 @@ import { GiArtificialHive } from "react-icons/gi"; // for OOP/DSA
 
 const skills = [
   {
-    category: "Languages & Core :",
+    category: "Languages & Core",
     items: [
       { name: "Java", icon: <FaJava size={35} color="#f89820" /> },
       { name: "JavaScript", icon: <FaReact size={35} color="#F7DF1E" /> },
