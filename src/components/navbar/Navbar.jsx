@@ -87,7 +87,9 @@ const Navbar = () => {
                             {navMenus.map((menu)=>(
                                 <li key={menu.name}>
                                     <a href={menu.link}
-                                    className='text-xl font-semibold px-2 py-4 md:py-6 inline-block cursor-pointer'>{menu.name}</a>
+                                    className='text-xl font-semibold px-2 py-4 md:py-6 inline-block cursor-pointer'
+                                    onClick={() => setShowMenu(false)}
+                                    >{menu.name}</a>
                                 </li>
                             ))}
                         </ul>
