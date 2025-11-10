@@ -38,7 +38,7 @@ const About = () => {
                         </a>
 
                         <a
-                        href="tel:+918765432109"
+                        href="tel:+919794696252"
                         className="outline-btn flex items-center gap-2 px-5 py-2 text-sm sm:text-base hover:scale-105 transition-transform"
                         >
                         <FiPhone className="text-lg" /> Contact
