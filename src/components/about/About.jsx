@@ -1,6 +1,6 @@
 import React from 'react'
 import { FiPhone } from "react-icons/fi";
-import resume from "../../assets/Resume 2025- Anmol 1.5.1.pdf";
+import resume from "../../assets/Anmol_Agarwal_Resume.pdf";
 
 
 const About = () => {
